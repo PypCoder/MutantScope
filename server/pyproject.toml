@@ -1,0 +1,16 @@
+[project]
+name = "server"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "biopython>=1.87",
+    "fastapi>=0.136.0",
+    "google-genai>=1.73.1",
+    "python-dotenv>=1.2.2",
+    "requests>=2.33.1",
+    "torch>=2.11.0",
+    "transformers>=5.5.4",
+    "uvicorn>=0.44.0",
+]

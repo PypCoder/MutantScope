@@ -17,7 +17,7 @@ Enter any UniProt protein ID, select a position and mutant amino acid — Mutant
 - FastAPI
 - SERAPH (custom ESM2 + CNN + BiLSTM, trained on CullPDB)
 - AlphaFold EBI API
-- Gemini 2.0 Flash
+- Gemini 3.0 Flash
 
 **Frontend**
 - Next.js 15 + TypeScript
